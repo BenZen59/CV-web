@@ -1,0 +1,16 @@
+body
+{
+    background-color: rgb(239, 249, 242);
+}
+
+.header
+{
+    display: flex;
+    justify-content: flex-end;
+    background-color: rgb(120, 161, 187);
+    width: 100vh;;
+    height: 25vh;
+    font-size: 52px;
+    font-weight: bold;
+    border: 1px dotted red;
+}
