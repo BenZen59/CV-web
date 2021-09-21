@@ -5,16 +5,29 @@ body
 
 header
 {
+    border: 1px solid rgb(46, 114, 51);
     display: flex;
     justify-content: center;
     align-items: center;
     position : relative;
-    margin-left: 100vh;
+    margin-left: 50vh;
     background-color: rgb(120, 161, 187);
-    width: 110vh;;
+    width: 160vh;;
     height: 25vh;
     font-size: 52px;
     font-weight: bold;
     font-family: "OpenSans-Light.ttf", sans-serif;
-    border: 1px dotted red;
+    margin-top: 50px;
+}
+
+nav 
+{
+    border: 1px solid red;
+    background-color: rgb(47, 47, 58);
+    color: white;
+    width: 50vh;
+    height: 100vh;
+    margin-top: -286px;
+    text-align: center;
+    position: absolute;
 }
