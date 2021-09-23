@@ -19,6 +19,20 @@ header
     margin-top: 50px;
 }
 
+.lienPerso
+{
+    display: flex;
+    justify-content: space-between;
+    width: 140px;
+	height: 140px;
+}
+
+.imagePerso
+{
+    display: flex;
+    justify-content: center;
+}
+
 nav 
 {
     background-color: rgb(47, 47, 58);
