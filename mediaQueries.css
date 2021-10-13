@@ -49,27 +49,3 @@
     }
 
 }
-
-@media handheld and (max-width: 820px)
-{
-    header
-    {
-      width: auto;
-      margin: auto;
-      padding-left: 35%;
-      margin-top: 50px;
-    }
-
-    nav
-    {
-        width: 40%;
-        bottom: -100%;
-        border: 1px solid red;
-    }
-
-    section 
-    {
-        margin-left: 41vh;
-    }
-}
-
